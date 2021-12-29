@@ -1,1 +1,2 @@
-# CSCI2270 CSCI 2270 Final Project
+# CSCI 2270 Final Project
+Experimentally comparing time performance of different data structure configurations
