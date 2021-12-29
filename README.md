@@ -1,2 +1,1 @@
-# CSCI2270
-CSCI 2270 Final Project
+# CSCI2270 CSCI 2270 Final Project
